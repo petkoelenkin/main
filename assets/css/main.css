@@ -187,6 +187,10 @@ input, select, textarea {
 		position: relative;
 		top: -0.5em;
 	}
+	
+	btn {
+	left: 50%;	
+	}
 
 	hr {
 		border: 0;
